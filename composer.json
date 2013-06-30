@@ -5,6 +5,7 @@
 	"keywords": ["Newsletter", "iBROWS"],
 	"homepage": "https://github.com/ibrows/IbrowsNewsletterBundle",
 	"license": "MIT",
+	"version": "1.0.25",
 	"authors": [
 		{
 			"name": "Dominik Spengler",
